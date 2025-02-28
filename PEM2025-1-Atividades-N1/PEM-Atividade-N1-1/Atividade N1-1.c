@@ -1,3 +1,12 @@
+/*---------------------------------------------------------------------*
+*                         FATEC Ipiranga                               *
+*               Disciplina: Programaçao Estruturada e Modular          *
+*                        Prof. Veríssimo                               *
+*----------------------------------------------------------------------*
+* Objetivo do Programa: Seleção para residências acadêmica             *
+* Data - 28/02/2025                                                    * 
+* Autor: Richard Kazuo Takada Leal                                     *
+*----------------------------------------------------------------------*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
