@@ -4,7 +4,7 @@
 *                        Prof. Veríssimo                               *
 *----------------------------------------------------------------------*
 * Objetivo do Programa: Seleção para residências acadêmica             *
-* Data - 28/02/2025                                                    * 
+* Data - 03/03/2025                                                    * 
 * Autor: Richard Kazuo Takada Leal                                     *
 *----------------------------------------------------------------------*/
 #include <stdio.h>
